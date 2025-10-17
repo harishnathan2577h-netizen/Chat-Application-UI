@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
-    "preview": "vite preview --port 5173"
+    "build": "vite build",
+    "preview": "vite preview",
   },
   "dependencies": {
     "@emoji-mart/data": "^1.2.1",
@@ -32,3 +32,4 @@
     "vite": "^5.4.8"
   }
 }
+
